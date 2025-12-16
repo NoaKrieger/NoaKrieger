@@ -11,7 +11,7 @@
 📝🗂️🚀 I like to structure things and organize my ideas before starting work. 📝🗂️🚀
 
 <p align="left">
-  <h2> Back-end </h2>
+  <h2> Languages </h2>
   <img src="https://skillicons.dev/icons?i=php,c,&perline=12"/>
   <img src="https://skillicons.dev/icons?i=html,css,vite&perline=6"/>
   <img src="https://skillicons.dev/icons?i=mysql,&perline=5" />
