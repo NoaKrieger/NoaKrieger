@@ -9,3 +9,11 @@
 🧠✨ I am very creative and deeply involved in what I do. 🧠✨
 
 📝🗂️🚀 I like to structure things and organize my ideas before starting work. 📝🗂️🚀
+
+<p align="left">
+  <h2> Back-end </h2>
+  <img src="https://skillicons.dev/icons?i=php,c,&perline=12"/>
+  <img src="https://skillicons.dev/icons?i=html,css,vite&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=mysql,&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker&perline=5" />
+</p>
