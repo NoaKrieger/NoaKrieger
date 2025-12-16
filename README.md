@@ -13,7 +13,7 @@
 <p align="left">
   <h2> Languages </h2>
   <img src="https://skillicons.dev/icons?i=php,c,&perline=12"/>
-  <img src="https://skillicons.dev/icons?i=html,css,vite&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css"/>
   <img src="https://skillicons.dev/icons?i=mysql,&perline=5" />
   <img src="https://skillicons.dev/icons?i=git,github,docker&perline=5" />
 </p>
